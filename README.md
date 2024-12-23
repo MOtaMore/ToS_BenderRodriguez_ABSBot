@@ -6,16 +6,14 @@ Bienvenido a ArgentinaBenderStyleBot, un bot de Discord que interactúa con dive
 2. Uso Permitido
 
 ArgentinaBenderStyleBot proporciona varias funcionalidades, incluidas pero no limitadas a:
-
-    Buscar flairs y contenido de Reddit en subreddits públicos.
+Buscar flairs y contenido de Reddit en subreddits públicos.
     Obtener información sobre el karma y los últimos posts de un usuario de Reddit.
     Bloquear subreddits y almacenar su información en una base de datos.
     Mostrar juegos de Steam con sus precios, traducidos de USD a ARS.
     Proporcionar notificaciones sobre cuentas de Twitch previamente registradas.
 
 El uso del bot debe ser responsable y respetuoso con la comunidad. No se permite:
-
-    Usar el bot para actividades ilegales o maliciosas.
+Usar el bot para actividades ilegales o maliciosas.
     Spamear, acosar, o realizar cualquier otra actividad que viole las reglas de Discord o las plataformas de API asociadas.
 
 3. Acceso y Restricciones
@@ -34,8 +32,7 @@ La privacidad de nuestros usuarios es de suma importancia. Esta Política de Pri
 2. Información Recopilada
 
 El bot recopila solo la información necesaria para brindar sus funcionalidades:
-
-    Información de Discord: Se recopila tu ID de usuario de Discord cuando interactúas con el bot para ofrecerte respuestas personalizadas y realizar acciones específicas dentro del servidor de Discord.
+Información de Discord: Se recopila tu ID de usuario de Discord cuando interactúas con el bot para ofrecerte respuestas personalizadas y realizar acciones específicas dentro del servidor de Discord.
     Información de Reddit, Steam y Twitch: El bot utiliza las APIs públicas de Reddit, Steam y Twitch para obtener datos como:
         El karma y el historial de publicaciones de un usuario de Reddit.
         El nombre de los juegos y sus precios de Steam.
@@ -45,8 +42,7 @@ El bot no almacena información sensible ni personal más allá de lo requerido 
 3. Uso de la Información
 
 La información recopilada se utiliza exclusivamente para:
-
-    Proporcionar los servicios del bot según lo solicitado por el usuario.
+Proporcionar los servicios del bot según lo solicitado por el usuario.
     Mantener y mejorar la calidad del servicio del bot.
     Personalizar las respuestas y funcionalidades del bot en función de las interacciones con los usuarios.
 
